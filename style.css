@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#ff8585 ;
+}
+p{
+  text-align: center;
+}
+#red{
+  color: red;
+}
+#orange{
+  color: orange;
+}
+#yellow{
+  color: yellow;
+}
+#green{
+  color: green;
+}
+#blue{
+  color: blue;
+}
+#indigo{
+  color: indigo;
+}
+#violet{
+  color: violet;
+}
+.color{
+  color: red;
+}
+
+#gru{
+  height: auto;
+  width: 80%;
+}
+.minion{
+  margin-top: 2vw;
+ height:auto;
+  width:30%;
+}
+#kingbob{
+  margin-left: 3vw;
+}
+
+
+
+
+
+
+
+
